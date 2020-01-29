@@ -12,7 +12,7 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nick Day",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
